@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Salah Ud Din 👋
 
-<!--
-**SalahUdDin-Eng/SalahUdDin-Eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year BSc Civil Engineering student at Mirpur University of Science & Technology (MUST), Pakistan  
+📊 CGPA: 3.92 / 4.00  
+🔬 Research interests: Sustainable construction materials, nanotechnology, and structural engineering  
 
-Here are some ideas to get you started:
+## Academic Background
+- Bachelor of Science (BSc) in Civil Engineering (Expected 2026)
+- Strong academic record with extensive field and research exposure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research Interests
+- Sustainable and low-carbon construction materials
+- Nano-modified lime-based mortars
+- Structural analysis and design
+- Durability of construction materials
+
+## Experience
+- Civil Engineering Intern (High-rise buildings & public infrastructure)
+- Quantity surveying, BOQ preparation, and site supervision
+
+## Professional Memberships
+- ASCE
+- SEI
+- ACI
+- IAENG
+- Engineers Without Borders
+
+## Tools & Skills
+AutoCAD | ETABS | SAFE | SAP2000 | Revit | Primavera P6 | Excel | ArcGIS
+
+## Contact
+📧 Email: engrsalahuddinafridi@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/salahuddin222/
+
