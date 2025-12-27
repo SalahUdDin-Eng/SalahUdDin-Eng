@@ -19,11 +19,11 @@
 - Quantity surveying, BOQ preparation, and site supervision
 
 ## Professional Memberships
-- ASCE
-- SEI
-- ACI
-- IAENG
-- Engineers Without Borders
+- American Society of Civil Engineers (ASCE)
+- Structural Engineering Institute (SEI)
+- American Concrete Institute (ACI)
+- International Association of Engineers (IAENG)
+- Engineers Without Borders (EWB)
 
 ## Tools & Skills
 AutoCAD | ETABS | SAFE | SAP2000 | Revit | Primavera P6 | Excel | ArcGIS
