@@ -1,6 +1,6 @@
 # Hi, I'm Salah Ud Din 👋
 
-🎓 Final Year BSc Civil Engineering student at Mirpur University of Science & Technology (MUST), Pakistan  
+🎓 Final Year BSc Civil Engineering student at Mirpur University of Science & Technology (MUST), Mipur (AJK) Pakistan  
 📊 CGPA: 3.92 / 4.00  
 🔬 Research interests: Sustainable construction materials, nanotechnology, and structural engineering  
 
